@@ -1,0 +1,359 @@
+D:\Uni Procedure\Năm 2\Kỳ 2\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.csproj.AssemblyReference.cache
+D:\Uni Procedure\Năm 2\Kỳ 2\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.csproj.SuggestedBindingRedirects.cache
+D:\Uni Procedure\Năm 2\Kỳ 2\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.Properties.Resources.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.csproj.GenerateResource.cache
+D:\Uni Procedure\Năm 2\Kỳ 2\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.csproj.CoreCompileInputs.cache
+D:\Uni Procedure\Năm 2\Kỳ 2\PBL3\ClothShop\ClothShop\bin\Debug\ClothShop.exe.config
+D:\Uni Procedure\Năm 2\Kỳ 2\PBL3\ClothShop\ClothShop\bin\Debug\ClothShop.exe
+D:\Uni Procedure\Năm 2\Kỳ 2\PBL3\ClothShop\ClothShop\bin\Debug\ClothShop.pdb
+D:\Uni Procedure\Năm 2\Kỳ 2\PBL3\ClothShop\ClothShop\bin\Debug\EntityFramework.dll
+D:\Uni Procedure\Năm 2\Kỳ 2\PBL3\ClothShop\ClothShop\bin\Debug\EntityFramework.SqlServer.dll
+D:\Uni Procedure\Năm 2\Kỳ 2\PBL3\ClothShop\ClothShop\bin\Debug\EntityFramework.xml
+D:\Uni Procedure\Năm 2\Kỳ 2\PBL3\ClothShop\ClothShop\bin\Debug\EntityFramework.SqlServer.xml
+D:\Uni Procedure\Năm 2\Kỳ 2\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.csproj.CopyComplete
+D:\Uni Procedure\Năm 2\Kỳ 2\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.exe
+D:\Uni Procedure\Năm 2\Kỳ 2\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.pdb
+D:\Uni Procedure\Năm 2\Kỳ 2\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_AddNhomSP.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_Dashboard.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DB_BanHang.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DB_NhapKho.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DB_ThuNgan.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailHD.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailKH.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailKM.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailNCC.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailNK.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailNV.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailSP.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_Login.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_Message.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_XacNhanDX.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_Account.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_DoiTac.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_HoaDon.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_HoaDon_ThuNgan.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_KhuyenMai.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_KhuyenMai_Staff.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_KH_BanHang.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_KH_ThuNgan.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_NhaCungCap_NhapKho.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_NhanVien.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_NhapKho.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_SanPham.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_SanPham_Staff.resources
+D:\Kì 4\BaroNhat\ClothShop\PBL3\ClothShop\ClothShop\bin\Debug\ClothShop.exe.config
+D:\Kì 4\BaroNhat\ClothShop\PBL3\ClothShop\ClothShop\bin\Debug\ClothShop.exe
+D:\Kì 4\BaroNhat\ClothShop\PBL3\ClothShop\ClothShop\bin\Debug\ClothShop.pdb
+D:\Kì 4\BaroNhat\ClothShop\PBL3\ClothShop\ClothShop\bin\Debug\EntityFramework.dll
+D:\Kì 4\BaroNhat\ClothShop\PBL3\ClothShop\ClothShop\bin\Debug\EntityFramework.SqlServer.dll
+D:\Kì 4\BaroNhat\ClothShop\PBL3\ClothShop\ClothShop\bin\Debug\EntityFramework.xml
+D:\Kì 4\BaroNhat\ClothShop\PBL3\ClothShop\ClothShop\bin\Debug\EntityFramework.SqlServer.xml
+D:\Kì 4\BaroNhat\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.csproj.AssemblyReference.cache
+D:\Kì 4\BaroNhat\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.csproj.SuggestedBindingRedirects.cache
+D:\Kì 4\BaroNhat\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.Properties.Resources.resources
+D:\Kì 4\BaroNhat\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_AddNhomSP.resources
+D:\Kì 4\BaroNhat\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_Dashboard.resources
+D:\Kì 4\BaroNhat\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DB_BanHang.resources
+D:\Kì 4\BaroNhat\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DB_NhapKho.resources
+D:\Kì 4\BaroNhat\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DB_ThuNgan.resources
+D:\Kì 4\BaroNhat\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailHD.resources
+D:\Kì 4\BaroNhat\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailKH.resources
+D:\Kì 4\BaroNhat\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailKM.resources
+D:\Kì 4\BaroNhat\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailNCC.resources
+D:\Kì 4\BaroNhat\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailNK.resources
+D:\Kì 4\BaroNhat\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailNV.resources
+D:\Kì 4\BaroNhat\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailSP.resources
+D:\Kì 4\BaroNhat\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_Login.resources
+D:\Kì 4\BaroNhat\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_Message.resources
+D:\Kì 4\BaroNhat\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_XacNhanDX.resources
+D:\Kì 4\BaroNhat\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_Account.resources
+D:\Kì 4\BaroNhat\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_DoiTac.resources
+D:\Kì 4\BaroNhat\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_HoaDon.resources
+D:\Kì 4\BaroNhat\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_HoaDon_ThuNgan.resources
+D:\Kì 4\BaroNhat\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_KhuyenMai.resources
+D:\Kì 4\BaroNhat\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_KhuyenMai_Staff.resources
+D:\Kì 4\BaroNhat\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_KH_BanHang.resources
+D:\Kì 4\BaroNhat\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_KH_ThuNgan.resources
+D:\Kì 4\BaroNhat\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_NhaCungCap_NhapKho.resources
+D:\Kì 4\BaroNhat\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_NhanVien.resources
+D:\Kì 4\BaroNhat\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_NhapKho.resources
+D:\Kì 4\BaroNhat\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_SanPham.resources
+D:\Kì 4\BaroNhat\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_SanPham_Staff.resources
+D:\Kì 4\BaroNhat\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.csproj.GenerateResource.cache
+D:\Kì 4\BaroNhat\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.csproj.CoreCompileInputs.cache
+D:\Kì 4\BaroNhat\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.csproj.CopyComplete
+D:\Kì 4\BaroNhat\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.exe
+D:\Kì 4\BaroNhat\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.pdb
+D:\University\Twoyear\Project\PBL3\ClothShop\PBL3\ClothShop\ClothShop\bin\Debug\ClothShop.exe.config
+D:\University\Twoyear\Project\PBL3\ClothShop\PBL3\ClothShop\ClothShop\bin\Debug\ClothShop.exe
+D:\University\Twoyear\Project\PBL3\ClothShop\PBL3\ClothShop\ClothShop\bin\Debug\ClothShop.pdb
+D:\University\Twoyear\Project\PBL3\ClothShop\PBL3\ClothShop\ClothShop\bin\Debug\EntityFramework.dll
+D:\University\Twoyear\Project\PBL3\ClothShop\PBL3\ClothShop\ClothShop\bin\Debug\EntityFramework.SqlServer.dll
+D:\University\Twoyear\Project\PBL3\ClothShop\PBL3\ClothShop\ClothShop\bin\Debug\EntityFramework.xml
+D:\University\Twoyear\Project\PBL3\ClothShop\PBL3\ClothShop\ClothShop\bin\Debug\EntityFramework.SqlServer.xml
+D:\University\Twoyear\Project\PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.csproj.AssemblyReference.cache
+D:\University\Twoyear\Project\PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.csproj.SuggestedBindingRedirects.cache
+D:\University\Twoyear\Project\PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.Properties.Resources.resources
+D:\University\Twoyear\Project\PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_AddNhomSP.resources
+D:\University\Twoyear\Project\PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_Dashboard.resources
+D:\University\Twoyear\Project\PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DB_BanHang.resources
+D:\University\Twoyear\Project\PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DB_NhapKho.resources
+D:\University\Twoyear\Project\PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DB_ThuNgan.resources
+D:\University\Twoyear\Project\PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailHD.resources
+D:\University\Twoyear\Project\PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailKH.resources
+D:\University\Twoyear\Project\PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailKM.resources
+D:\University\Twoyear\Project\PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailNCC.resources
+D:\University\Twoyear\Project\PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailNK.resources
+D:\University\Twoyear\Project\PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailNV.resources
+D:\University\Twoyear\Project\PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailSP.resources
+D:\University\Twoyear\Project\PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_Login.resources
+D:\University\Twoyear\Project\PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_Message.resources
+D:\University\Twoyear\Project\PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_XacNhanDX.resources
+D:\University\Twoyear\Project\PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_Account.resources
+D:\University\Twoyear\Project\PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_DoiTac.resources
+D:\University\Twoyear\Project\PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_HoaDon.resources
+D:\University\Twoyear\Project\PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_HoaDon_ThuNgan.resources
+D:\University\Twoyear\Project\PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_KhuyenMai.resources
+D:\University\Twoyear\Project\PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_KhuyenMai_Staff.resources
+D:\University\Twoyear\Project\PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_KH_BanHang.resources
+D:\University\Twoyear\Project\PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_KH_ThuNgan.resources
+D:\University\Twoyear\Project\PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_NhaCungCap_NhapKho.resources
+D:\University\Twoyear\Project\PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_NhanVien.resources
+D:\University\Twoyear\Project\PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_NhapKho.resources
+D:\University\Twoyear\Project\PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_SanPham.resources
+D:\University\Twoyear\Project\PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_SanPham_Staff.resources
+D:\University\Twoyear\Project\PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.csproj.GenerateResource.cache
+D:\University\Twoyear\Project\PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.csproj.CoreCompileInputs.cache
+D:\University\Twoyear\Project\PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.csproj.CopyComplete
+D:\University\Twoyear\Project\PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.exe
+D:\University\Twoyear\Project\PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.pdb
+D:\Uni Procedure\Năm 2\Kỳ 2\ClothShop\PBL3\ClothShop\ClothShop\bin\Debug\ClothShop.exe.config
+D:\Uni Procedure\Năm 2\Kỳ 2\ClothShop\PBL3\ClothShop\ClothShop\bin\Debug\ClothShop.exe
+D:\Uni Procedure\Năm 2\Kỳ 2\ClothShop\PBL3\ClothShop\ClothShop\bin\Debug\ClothShop.pdb
+D:\Uni Procedure\Năm 2\Kỳ 2\ClothShop\PBL3\ClothShop\ClothShop\bin\Debug\EntityFramework.dll
+D:\Uni Procedure\Năm 2\Kỳ 2\ClothShop\PBL3\ClothShop\ClothShop\bin\Debug\EntityFramework.SqlServer.dll
+D:\Uni Procedure\Năm 2\Kỳ 2\ClothShop\PBL3\ClothShop\ClothShop\bin\Debug\EntityFramework.xml
+D:\Uni Procedure\Năm 2\Kỳ 2\ClothShop\PBL3\ClothShop\ClothShop\bin\Debug\EntityFramework.SqlServer.xml
+D:\Uni Procedure\Năm 2\Kỳ 2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.csproj.AssemblyReference.cache
+D:\Uni Procedure\Năm 2\Kỳ 2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.csproj.SuggestedBindingRedirects.cache
+D:\Uni Procedure\Năm 2\Kỳ 2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.Properties.Resources.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_AddNhomSP.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_Dashboard.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DB_BanHang.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DB_NhapKho.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DB_ThuNgan.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailHD.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailKH.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailKM.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailNCC.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailNK.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailNV.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailSP.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_Login.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_Message.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_XacNhanDX.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_Account.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_DoiTac.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_HoaDon.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_HoaDon_ThuNgan.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_KhuyenMai.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_KhuyenMai_Staff.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_KH_BanHang.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_KH_ThuNgan.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_NhaCungCap_NhapKho.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_NhanVien.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_NhapKho.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_SanPham.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_SanPham_Staff.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.csproj.GenerateResource.cache
+D:\Uni Procedure\Năm 2\Kỳ 2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.csproj.CoreCompileInputs.cache
+D:\Uni Procedure\Năm 2\Kỳ 2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.csproj.CopyComplete
+D:\Uni Procedure\Năm 2\Kỳ 2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.exe
+D:\Uni Procedure\Năm 2\Kỳ 2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.pdb
+D:\Kì 4\TestGit\ClothShop\PBL3\ClothShop\ClothShop\bin\Debug\ClothShop.exe.config
+D:\Kì 4\TestGit\ClothShop\PBL3\ClothShop\ClothShop\bin\Debug\ClothShop.exe
+D:\Kì 4\TestGit\ClothShop\PBL3\ClothShop\ClothShop\bin\Debug\ClothShop.pdb
+D:\Kì 4\TestGit\ClothShop\PBL3\ClothShop\ClothShop\bin\Debug\EntityFramework.dll
+D:\Kì 4\TestGit\ClothShop\PBL3\ClothShop\ClothShop\bin\Debug\EntityFramework.SqlServer.dll
+D:\Kì 4\TestGit\ClothShop\PBL3\ClothShop\ClothShop\bin\Debug\EntityFramework.xml
+D:\Kì 4\TestGit\ClothShop\PBL3\ClothShop\ClothShop\bin\Debug\EntityFramework.SqlServer.xml
+D:\Kì 4\TestGit\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.csproj.AssemblyReference.cache
+D:\Kì 4\TestGit\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.csproj.SuggestedBindingRedirects.cache
+D:\Kì 4\TestGit\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.Properties.Resources.resources
+D:\Kì 4\TestGit\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_AddNhomSP.resources
+D:\Kì 4\TestGit\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_Dashboard.resources
+D:\Kì 4\TestGit\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DB_BanHang.resources
+D:\Kì 4\TestGit\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DB_NhapKho.resources
+D:\Kì 4\TestGit\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DB_ThuNgan.resources
+D:\Kì 4\TestGit\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailHD.resources
+D:\Kì 4\TestGit\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailKH.resources
+D:\Kì 4\TestGit\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailKM.resources
+D:\Kì 4\TestGit\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailNCC.resources
+D:\Kì 4\TestGit\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailNK.resources
+D:\Kì 4\TestGit\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailNV.resources
+D:\Kì 4\TestGit\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailSP.resources
+D:\Kì 4\TestGit\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_Login.resources
+D:\Kì 4\TestGit\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_Message.resources
+D:\Kì 4\TestGit\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_XacNhanDX.resources
+D:\Kì 4\TestGit\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_Account.resources
+D:\Kì 4\TestGit\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_DoiTac.resources
+D:\Kì 4\TestGit\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_HoaDon.resources
+D:\Kì 4\TestGit\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_HoaDon_ThuNgan.resources
+D:\Kì 4\TestGit\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_KhuyenMai.resources
+D:\Kì 4\TestGit\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_KhuyenMai_Staff.resources
+D:\Kì 4\TestGit\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_KH_BanHang.resources
+D:\Kì 4\TestGit\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_KH_ThuNgan.resources
+D:\Kì 4\TestGit\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_NhaCungCap_NhapKho.resources
+D:\Kì 4\TestGit\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_NhanVien.resources
+D:\Kì 4\TestGit\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_NhapKho.resources
+D:\Kì 4\TestGit\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_SanPham.resources
+D:\Kì 4\TestGit\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_SanPham_Staff.resources
+D:\Kì 4\TestGit\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.csproj.GenerateResource.cache
+D:\Kì 4\TestGit\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.csproj.CoreCompileInputs.cache
+D:\Kì 4\TestGit\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.csproj.CopyComplete
+D:\Kì 4\TestGit\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.exe
+D:\Kì 4\TestGit\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.pdb
+D:\Uni Procedure\Năm 2\Kỳ 2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_TrangChu.resources
+D:\Uni Procedure\Năm 2\Kỳ 2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_ThongKe.resources
+<<<<<<< Updated upstream
+D:\University\Twoyear\Project\PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_ThongKe.resources
+D:\University\Twoyear\Project\PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_TrangChu.resources
+=======
+D:\Kì 4\TestGit\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_ThongKe.resources
+D:\Kì 4\TestGit\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_TrangChu.resources
+>>>>>>> Stashed changes
+D:\University\Twoyear\Project\Tuan_PBL3\ClothShop\PBL3\ClothShop\ClothShop\bin\Debug\ClothShop.exe.config
+D:\University\Twoyear\Project\Tuan_PBL3\ClothShop\PBL3\ClothShop\ClothShop\bin\Debug\ClothShop.exe
+D:\University\Twoyear\Project\Tuan_PBL3\ClothShop\PBL3\ClothShop\ClothShop\bin\Debug\ClothShop.pdb
+D:\University\Twoyear\Project\Tuan_PBL3\ClothShop\PBL3\ClothShop\ClothShop\bin\Debug\EntityFramework.dll
+D:\University\Twoyear\Project\Tuan_PBL3\ClothShop\PBL3\ClothShop\ClothShop\bin\Debug\EntityFramework.SqlServer.dll
+D:\University\Twoyear\Project\Tuan_PBL3\ClothShop\PBL3\ClothShop\ClothShop\bin\Debug\EntityFramework.xml
+D:\University\Twoyear\Project\Tuan_PBL3\ClothShop\PBL3\ClothShop\ClothShop\bin\Debug\EntityFramework.SqlServer.xml
+D:\University\Twoyear\Project\Tuan_PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.csproj.AssemblyReference.cache
+D:\University\Twoyear\Project\Tuan_PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.csproj.SuggestedBindingRedirects.cache
+D:\University\Twoyear\Project\Tuan_PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.Properties.Resources.resources
+D:\University\Twoyear\Project\Tuan_PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_AddNhomSP.resources
+D:\University\Twoyear\Project\Tuan_PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_Dashboard.resources
+D:\University\Twoyear\Project\Tuan_PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DB_BanHang.resources
+D:\University\Twoyear\Project\Tuan_PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DB_NhapKho.resources
+D:\University\Twoyear\Project\Tuan_PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DB_ThuNgan.resources
+D:\University\Twoyear\Project\Tuan_PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailHD.resources
+D:\University\Twoyear\Project\Tuan_PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailKH.resources
+D:\University\Twoyear\Project\Tuan_PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailKM.resources
+D:\University\Twoyear\Project\Tuan_PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailNCC.resources
+D:\University\Twoyear\Project\Tuan_PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailNK.resources
+D:\University\Twoyear\Project\Tuan_PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailNV.resources
+D:\University\Twoyear\Project\Tuan_PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailSP.resources
+D:\University\Twoyear\Project\Tuan_PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_Login.resources
+D:\University\Twoyear\Project\Tuan_PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_Message.resources
+D:\University\Twoyear\Project\Tuan_PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_XacNhanDX.resources
+D:\University\Twoyear\Project\Tuan_PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_Account.resources
+D:\University\Twoyear\Project\Tuan_PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_DoiTac.resources
+D:\University\Twoyear\Project\Tuan_PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_HoaDon.resources
+D:\University\Twoyear\Project\Tuan_PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_HoaDon_ThuNgan.resources
+D:\University\Twoyear\Project\Tuan_PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_KhuyenMai.resources
+D:\University\Twoyear\Project\Tuan_PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_KhuyenMai_Staff.resources
+D:\University\Twoyear\Project\Tuan_PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_KH_BanHang.resources
+D:\University\Twoyear\Project\Tuan_PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_KH_ThuNgan.resources
+D:\University\Twoyear\Project\Tuan_PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_NhaCungCap_NhapKho.resources
+D:\University\Twoyear\Project\Tuan_PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_NhanVien.resources
+D:\University\Twoyear\Project\Tuan_PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_NhapKho.resources
+D:\University\Twoyear\Project\Tuan_PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_SanPham.resources
+D:\University\Twoyear\Project\Tuan_PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_SanPham_Staff.resources
+D:\University\Twoyear\Project\Tuan_PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_ThongKe.resources
+D:\University\Twoyear\Project\Tuan_PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_TrangChu.resources
+D:\University\Twoyear\Project\Tuan_PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.csproj.GenerateResource.cache
+D:\University\Twoyear\Project\Tuan_PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.csproj.CoreCompileInputs.cache
+D:\University\Twoyear\Project\Tuan_PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.csproj.CopyComplete
+D:\University\Twoyear\Project\Tuan_PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.exe
+D:\University\Twoyear\Project\Tuan_PBL3\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.pdb
+D:\Uni Procedure\Nam2\Ky2\ClothShop\PBL3\ClothShop\ClothShop\bin\Debug\ClothShop.exe.config
+D:\Uni Procedure\Nam2\Ky2\ClothShop\PBL3\ClothShop\ClothShop\bin\Debug\ClothShop.exe
+D:\Uni Procedure\Nam2\Ky2\ClothShop\PBL3\ClothShop\ClothShop\bin\Debug\ClothShop.pdb
+D:\Uni Procedure\Nam2\Ky2\ClothShop\PBL3\ClothShop\ClothShop\bin\Debug\EntityFramework.dll
+D:\Uni Procedure\Nam2\Ky2\ClothShop\PBL3\ClothShop\ClothShop\bin\Debug\EntityFramework.SqlServer.dll
+D:\Uni Procedure\Nam2\Ky2\ClothShop\PBL3\ClothShop\ClothShop\bin\Debug\EntityFramework.xml
+D:\Uni Procedure\Nam2\Ky2\ClothShop\PBL3\ClothShop\ClothShop\bin\Debug\EntityFramework.SqlServer.xml
+D:\Uni Procedure\Nam2\Ky2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.csproj.AssemblyReference.cache
+D:\Uni Procedure\Nam2\Ky2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.csproj.SuggestedBindingRedirects.cache
+D:\Uni Procedure\Nam2\Ky2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.Properties.Resources.resources
+D:\Uni Procedure\Nam2\Ky2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_AddNhomSP.resources
+D:\Uni Procedure\Nam2\Ky2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_Dashboard.resources
+D:\Uni Procedure\Nam2\Ky2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DB_BanHang.resources
+D:\Uni Procedure\Nam2\Ky2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DB_NhapKho.resources
+D:\Uni Procedure\Nam2\Ky2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DB_ThuNgan.resources
+D:\Uni Procedure\Nam2\Ky2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailHD.resources
+D:\Uni Procedure\Nam2\Ky2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailKH.resources
+D:\Uni Procedure\Nam2\Ky2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailKM.resources
+D:\Uni Procedure\Nam2\Ky2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailNCC.resources
+D:\Uni Procedure\Nam2\Ky2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailNK.resources
+D:\Uni Procedure\Nam2\Ky2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailNV.resources
+D:\Uni Procedure\Nam2\Ky2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailSP.resources
+D:\Uni Procedure\Nam2\Ky2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_Login.resources
+D:\Uni Procedure\Nam2\Ky2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_Message.resources
+D:\Uni Procedure\Nam2\Ky2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_XacNhanDX.resources
+D:\Uni Procedure\Nam2\Ky2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_Account.resources
+D:\Uni Procedure\Nam2\Ky2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_DoiTac.resources
+D:\Uni Procedure\Nam2\Ky2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_HoaDon.resources
+D:\Uni Procedure\Nam2\Ky2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_HoaDon_ThuNgan.resources
+D:\Uni Procedure\Nam2\Ky2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_KhuyenMai.resources
+D:\Uni Procedure\Nam2\Ky2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_KhuyenMai_Staff.resources
+D:\Uni Procedure\Nam2\Ky2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_KH_BanHang.resources
+D:\Uni Procedure\Nam2\Ky2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_KH_ThuNgan.resources
+D:\Uni Procedure\Nam2\Ky2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_NhaCungCap_NhapKho.resources
+D:\Uni Procedure\Nam2\Ky2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_NhanVien.resources
+D:\Uni Procedure\Nam2\Ky2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_NhapKho.resources
+D:\Uni Procedure\Nam2\Ky2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_SanPham.resources
+D:\Uni Procedure\Nam2\Ky2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_SanPham_Staff.resources
+D:\Uni Procedure\Nam2\Ky2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_ThongKe.resources
+D:\Uni Procedure\Nam2\Ky2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_TrangChu.resources
+D:\Uni Procedure\Nam2\Ky2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.csproj.GenerateResource.cache
+D:\Uni Procedure\Nam2\Ky2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.csproj.CoreCompileInputs.cache
+D:\Uni Procedure\Nam2\Ky2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.csproj.CopyComplete
+D:\Uni Procedure\Nam2\Ky2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.exe
+D:\Uni Procedure\Nam2\Ky2\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.pdb
+D:\University\Twoyear\Kỳ 4\Project\Báo cáo\ClothShop\PBL3\ClothShop\ClothShop\bin\Debug\ClothShop.exe.config
+D:\University\Twoyear\Kỳ 4\Project\Báo cáo\ClothShop\PBL3\ClothShop\ClothShop\bin\Debug\ClothShop.exe
+D:\University\Twoyear\Kỳ 4\Project\Báo cáo\ClothShop\PBL3\ClothShop\ClothShop\bin\Debug\ClothShop.pdb
+D:\University\Twoyear\Kỳ 4\Project\Báo cáo\ClothShop\PBL3\ClothShop\ClothShop\bin\Debug\EntityFramework.dll
+D:\University\Twoyear\Kỳ 4\Project\Báo cáo\ClothShop\PBL3\ClothShop\ClothShop\bin\Debug\EntityFramework.SqlServer.dll
+D:\University\Twoyear\Kỳ 4\Project\Báo cáo\ClothShop\PBL3\ClothShop\ClothShop\bin\Debug\EntityFramework.xml
+D:\University\Twoyear\Kỳ 4\Project\Báo cáo\ClothShop\PBL3\ClothShop\ClothShop\bin\Debug\EntityFramework.SqlServer.xml
+D:\University\Twoyear\Kỳ 4\Project\Báo cáo\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.csproj.AssemblyReference.cache
+D:\University\Twoyear\Kỳ 4\Project\Báo cáo\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.csproj.SuggestedBindingRedirects.cache
+D:\University\Twoyear\Kỳ 4\Project\Báo cáo\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.Properties.Resources.resources
+D:\University\Twoyear\Kỳ 4\Project\Báo cáo\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_AddNhomSP.resources
+D:\University\Twoyear\Kỳ 4\Project\Báo cáo\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_Dashboard.resources
+D:\University\Twoyear\Kỳ 4\Project\Báo cáo\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DB_BanHang.resources
+D:\University\Twoyear\Kỳ 4\Project\Báo cáo\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DB_NhapKho.resources
+D:\University\Twoyear\Kỳ 4\Project\Báo cáo\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DB_ThuNgan.resources
+D:\University\Twoyear\Kỳ 4\Project\Báo cáo\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailHD.resources
+D:\University\Twoyear\Kỳ 4\Project\Báo cáo\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailKH.resources
+D:\University\Twoyear\Kỳ 4\Project\Báo cáo\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailKM.resources
+D:\University\Twoyear\Kỳ 4\Project\Báo cáo\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailNCC.resources
+D:\University\Twoyear\Kỳ 4\Project\Báo cáo\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailNK.resources
+D:\University\Twoyear\Kỳ 4\Project\Báo cáo\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailNV.resources
+D:\University\Twoyear\Kỳ 4\Project\Báo cáo\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_DetailSP.resources
+D:\University\Twoyear\Kỳ 4\Project\Báo cáo\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_Login.resources
+D:\University\Twoyear\Kỳ 4\Project\Báo cáo\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_Message.resources
+D:\University\Twoyear\Kỳ 4\Project\Báo cáo\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.Forms.Form_XacNhanDX.resources
+D:\University\Twoyear\Kỳ 4\Project\Báo cáo\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_Account.resources
+D:\University\Twoyear\Kỳ 4\Project\Báo cáo\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_DoiTac.resources
+D:\University\Twoyear\Kỳ 4\Project\Báo cáo\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_HoaDon.resources
+D:\University\Twoyear\Kỳ 4\Project\Báo cáo\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_HoaDon_ThuNgan.resources
+D:\University\Twoyear\Kỳ 4\Project\Báo cáo\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_KhuyenMai.resources
+D:\University\Twoyear\Kỳ 4\Project\Báo cáo\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_KhuyenMai_Staff.resources
+D:\University\Twoyear\Kỳ 4\Project\Báo cáo\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_KH_BanHang.resources
+D:\University\Twoyear\Kỳ 4\Project\Báo cáo\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_KH_ThuNgan.resources
+D:\University\Twoyear\Kỳ 4\Project\Báo cáo\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_NhaCungCap_NhapKho.resources
+D:\University\Twoyear\Kỳ 4\Project\Báo cáo\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_NhanVien.resources
+D:\University\Twoyear\Kỳ 4\Project\Báo cáo\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_NhapKho.resources
+D:\University\Twoyear\Kỳ 4\Project\Báo cáo\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_SanPham.resources
+D:\University\Twoyear\Kỳ 4\Project\Báo cáo\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_SanPham_Staff.resources
+D:\University\Twoyear\Kỳ 4\Project\Báo cáo\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_ThongKe.resources
+D:\University\Twoyear\Kỳ 4\Project\Báo cáo\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.View.UserControls.UC_TrangChu.resources
+D:\University\Twoyear\Kỳ 4\Project\Báo cáo\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.csproj.GenerateResource.cache
+D:\University\Twoyear\Kỳ 4\Project\Báo cáo\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.csproj.CoreCompileInputs.cache
+D:\University\Twoyear\Kỳ 4\Project\Báo cáo\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.csproj.CopyComplete
+D:\University\Twoyear\Kỳ 4\Project\Báo cáo\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.exe
+D:\University\Twoyear\Kỳ 4\Project\Báo cáo\ClothShop\PBL3\ClothShop\ClothShop\obj\Debug\ClothShop.pdb
